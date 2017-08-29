@@ -1,3 +1,0 @@
-first = "first_name "
-last = "last_name"
-puts first + last
