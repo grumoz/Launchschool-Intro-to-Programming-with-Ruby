@@ -14,7 +14,6 @@ ar = [1, 2, 4, 5, 32]
 ar.each_with_index {|el, i| puts "#{i + 1}.#{el}"}
 
 #1
-
 input = ""
 while input != "STOP"
   input = gets.chomp
